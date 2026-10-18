@@ -1,0 +1,181 @@
+Date,Month,Quarter,Year,Region,Department,Product Category,Product Name,Revenue,Cost of Goods Sold,Operating Expenses,Gross Profit,Net Profit,Profit Margin %,Sales Volume,Budgeted Revenue,Actual Revenue,Budget Variance,Customer Segment,Sales Channel
+2025-01-02,January,Q1,2025,East,Corporate Sales,Electronics,Keyboard,49873.67,26144.21,6169.16,23729.46,17560.3,35.21,26,49215.53,49873.67,658.14,Small Business,Direct Sales
+2025-01-06,January,Q1,2025,East,Retail Sales,Accessories,Laptop Stand,49783.5,24334.23,7272.99,25449.27,18176.28,36.51,31,45239.33,49783.5,4544.17,Enterprise,Distributor
+2025-01-10,January,Q1,2025,Central,Retail Sales,Furniture,Work Desk,372896.61,245100.46,30056.23,127796.15,97739.92,26.21,30,398550.38,372896.61,-25653.77,Consumer,Distributor
+2025-01-14,January,Q1,2025,East,Online Sales,Office Supplies,Office Chair,133148.45,85955.95,18938.36,47192.5,28254.14,21.22,18,139603.56,133148.45,-6455.11,Enterprise,Retail Partner
+2025-01-14,January,Q1,2025,South,Online Sales,Accessories,Laptop Stand,7565.11,3740.64,659.74,3824.47,3164.73,41.83,5,7483.62,7565.11,81.49,Consumer,E-commerce
+2025-01-15,January,Q1,2025,Central,Enterprise Sales,Furniture,Conference Table,363719.79,240705.99,66541.14,123013.8,56472.66,15.53,12,393178.98,363719.79,-29459.19,Mid-Market,Direct Sales
+2025-01-16,January,Q1,2025,North,Retail Sales,Electronics,Keyboard,17143.13,8990.63,2156.41,8152.5,5996.09,34.98,10,15288.6,17143.13,1854.53,Consumer,Retail Partner
+2025-01-16,January,Q1,2025,East,Retail Sales,Accessories,Webcam,100143.42,54285.12,10033.23,45858.3,35825.07,35.77,26,111680.6,100143.42,-11537.18,Enterprise,Distributor
+2025-01-16,January,Q1,2025,West,Enterprise Sales,Accessories,USB-C Hub,4898.5,2515.19,875.23,2383.31,1508.08,30.79,2,4344.77,4898.5,553.73,Small Business,E-commerce
+2025-01-16,January,Q1,2025,North,Online Sales,Accessories,USB-C Hub,38244.27,19661.59,4172.43,18582.68,14410.25,37.68,15,41424.47,38244.27,-3180.2,Small Business,Retail Partner
+2025-01-18,January,Q1,2025,South,Retail Sales,Electronics,Laptop,1100666.64,811327.35,113118.0,289339.29,176221.29,16.01,23,1048381.87,1100666.64,52284.77,Mid-Market,Direct Sales
+2025-01-21,January,Q1,2025,North,Enterprise Sales,Accessories,USB-C Hub,66656.19,35277.9,6600.92,31378.29,24777.37,37.17,29,63678.95,66656.19,2977.24,Enterprise,Distributor
+2025-01-25,January,Q1,2025,South,Enterprise Sales,Office Supplies,Printer Paper,5873.42,3494.2,912.15,2379.22,1467.07,24.98,14,5647.14,5873.42,226.28,Consumer,Retail Partner
+2025-01-28,January,Q1,2025,North,Enterprise Sales,Electronics,Monitor,244249.41,160646.7,37536.14,83602.71,46066.57,18.86,17,240565.26,244249.41,3684.15,Consumer,Retail Partner
+2025-01-28,January,Q1,2025,South,Retail Sales,Furniture,Bookshelf,105154.87,67880.49,12898.57,37274.38,24375.81,23.18,16,108710.5,105154.87,-3555.63,Small Business,Retail Partner
+2025-01-31,January,Q1,2025,North,Corporate Sales,Electronics,Laptop,1026539.89,751041.51,120887.57,275498.38,154610.81,15.06,20,1006924.38,1026539.89,19615.51,Consumer,Distributor
+2025-02-02,February,Q1,2025,North,Enterprise Sales,Electronics,Laptop,1400640.97,1023001.41,149280.71,377639.56,228358.85,16.3,29,1423906.87,1400640.97,-23265.9,Enterprise,Retail Partner
+2025-02-02,February,Q1,2025,Central,Online Sales,Office Supplies,Notebook Pack,4607.92,2104.09,863.15,2503.83,1640.68,35.61,16,4896.71,4607.92,-288.79,Consumer,Retail Partner
+2025-02-03,February,Q1,2025,West,Retail Sales,Office Supplies,Notebook Pack,1874.63,851.29,272.58,1023.34,750.76,40.05,7,1782.29,1874.63,92.34,Enterprise,Distributor
+2025-02-08,February,Q1,2025,South,Retail Sales,Office Supplies,Office Chair,198825.76,124031.44,21544.55,74794.32,53249.77,26.78,25,202927.68,198825.76,-4101.92,Mid-Market,E-commerce
+2025-02-08,February,Q1,2025,East,Retail Sales,Furniture,Work Desk,292942.56,193366.33,28343.46,99576.23,71232.77,24.32,25,306745.1,292942.56,-13802.54,Mid-Market,Direct Sales
+2025-02-08,February,Q1,2025,East,Retail Sales,Electronics,Headphones,55002.08,30599.79,10045.17,24402.29,14357.12,26.1,16,59019.8,55002.08,-4017.72,Enterprise,Distributor
+2025-02-11,February,Q1,2025,North,Online Sales,Furniture,Conference Table,516124.24,372775.84,77325.23,143348.4,66023.17,12.79,18,522761.11,516124.24,-6636.87,Consumer,E-commerce
+2025-02-11,February,Q1,2025,South,Retail Sales,Accessories,Laptop Stand,39846.51,21433.84,3864.58,18412.67,14548.09,36.51,26,36955.25,39846.51,2891.26,Mid-Market,E-commerce
+2025-02-13,February,Q1,2025,Central,Enterprise Sales,Electronics,Monitor,95390.6,67380.64,11812.76,28009.96,16197.2,16.98,7,106617.43,95390.6,-11226.83,Consumer,Retail Partner
+2025-02-13,February,Q1,2025,East,Online Sales,Office Supplies,Notebook Pack,5882.0,2689.53,728.43,3192.47,2464.04,41.89,21,6471.15,5882.0,-589.15,Enterprise,E-commerce
+2025-02-14,February,Q1,2025,West,Corporate Sales,Furniture,Work Desk,34203.43,22450.52,5841.74,11752.91,5911.17,17.28,3,32523.57,34203.43,1679.86,Mid-Market,E-commerce
+2025-02-16,February,Q1,2025,East,Enterprise Sales,Office Supplies,Desk Organizer,14198.42,8377.25,2420.88,5821.17,3400.29,23.95,14,14005.6,14198.42,192.82,Small Business,Retail Partner
+2025-02-16,February,Q1,2025,Central,Corporate Sales,Accessories,Wireless Mouse,16302.63,8271.83,2282.76,8030.8,5748.04,35.26,14,16472.81,16302.63,-170.18,Consumer,Direct Sales
+2025-02-18,February,Q1,2025,Central,Enterprise Sales,Furniture,Storage Cabinet,112742.63,79388.24,9327.71,33354.39,24026.68,21.31,12,114236.19,112742.63,-1493.56,Enterprise,Distributor
+2025-02-22,February,Q1,2025,North,Enterprise Sales,Furniture,Bookshelf,54518.2,34990.54,4578.32,19527.66,14949.34,27.42,8,48047.06,54518.2,6471.14,Consumer,Retail Partner
+2025-02-22,February,Q1,2025,West,Online Sales,Electronics,Laptop,1025388.88,775942.91,147570.61,249445.97,101875.36,9.94,21,987704.56,1025388.88,37684.32,Mid-Market,Direct Sales
+2025-02-22,February,Q1,2025,West,Enterprise Sales,Accessories,Laptop Stand,11069.55,5410.81,1026.19,5658.74,4632.55,41.85,7,9797.39,11069.55,1272.16,Small Business,Direct Sales
+2025-02-23,February,Q1,2025,East,Online Sales,Accessories,Webcam,119092.63,70482.98,10742.53,48609.65,37867.12,31.8,29,116076.68,119092.63,3015.95,Enterprise,E-commerce
+2025-02-24,February,Q1,2025,East,Online Sales,Accessories,Laptop Stand,16770.9,8247.16,2818.59,8523.74,5705.15,34.02,10,17245.0,16770.9,-474.1,Consumer,Retail Partner
+2025-02-25,February,Q1,2025,West,Enterprise Sales,Office Supplies,Notebook Pack,4398.55,2107.92,589.31,2290.63,1701.32,38.68,17,4860.74,4398.55,-462.19,Enterprise,Retail Partner
+2025-02-28,February,Q1,2025,North,Corporate Sales,Accessories,Webcam,89111.09,49550.1,10767.99,39560.99,28793.0,32.31,21,87076.26,89111.09,2034.83,Small Business,Distributor
+2025-03-04,March,Q1,2025,West,Online Sales,Accessories,Webcam,73351.61,44172.96,8940.14,29178.65,20238.51,27.59,18,71547.6,73351.61,1804.01,Mid-Market,Direct Sales
+2025-03-05,March,Q1,2025,South,Enterprise Sales,Office Supplies,Printer Paper,14343.23,8376.93,2714.3,5966.3,3252.0,22.67,35,14634.59,14343.23,-291.36,Enterprise,Distributor
+2025-03-06,March,Q1,2025,North,Online Sales,Electronics,Monitor,106049.51,75812.76,13712.5,30236.75,16524.25,15.58,8,101150.92,106049.51,4898.59,Enterprise,Direct Sales
+2025-03-07,March,Q1,2025,East,Online Sales,Furniture,Conference Table,833488.5,570162.13,137954.46,263326.37,125371.91,15.04,31,927871.36,833488.5,-94382.86,Mid-Market,Direct Sales
+2025-03-07,March,Q1,2025,Central,Retail Sales,Office Supplies,Office Chair,67133.12,44887.59,6790.72,22245.53,15454.81,23.02,8,62634.63,67133.12,4498.49,Enterprise,Distributor
+2025-03-07,March,Q1,2025,North,Corporate Sales,Office Supplies,Office Chair,75718.72,47092.29,11142.26,28626.43,17484.17,23.09,10,70364.93,75718.72,5353.79,Consumer,Direct Sales
+2025-03-08,March,Q1,2025,West,Retail Sales,Accessories,Wireless Mouse,3560.94,1701.32,476.89,1859.62,1382.73,38.83,3,3634.82,3560.94,-73.88,Small Business,Direct Sales
+2025-03-10,March,Q1,2025,South,Enterprise Sales,Office Supplies,Printer Paper,2409.85,1477.07,407.23,932.78,525.55,21.81,5,2684.24,2409.85,-274.39,Enterprise,Retail Partner
+2025-03-12,March,Q1,2025,South,Online Sales,Furniture,Bookshelf,78537.99,50499.31,14581.72,28038.68,13456.96,17.13,12,76104.8,78537.99,2433.19,Mid-Market,Retail Partner
+2025-03-13,March,Q1,2025,East,Retail Sales,Office Supplies,Office Chair,21907.76,14328.95,3547.39,7578.81,4031.42,18.4,3,24365.86,21907.76,-2458.1,Consumer,E-commerce
+2025-03-13,March,Q1,2025,North,Enterprise Sales,Furniture,Work Desk,104271.38,66399.31,13190.41,37872.07,24681.66,23.67,9,96166.7,104271.38,8104.68,Enterprise,Distributor
+2025-03-14,March,Q1,2025,North,Retail Sales,Accessories,USB-C Hub,64623.14,33351.52,6049.56,31271.62,25222.06,39.03,26,71254.44,64623.14,-6631.3,Consumer,E-commerce
+2025-03-15,March,Q1,2025,East,Enterprise Sales,Furniture,Conference Table,823826.19,584593.57,74523.76,239232.62,164708.86,19.99,31,868454.3,823826.19,-44628.11,Enterprise,Distributor
+2025-03-18,March,Q1,2025,South,Corporate Sales,Office Supplies,Office Chair,51225.95,34107.68,9671.7,17118.27,7446.57,14.54,7,51914.05,51225.95,-688.1,Consumer,Distributor
+2025-03-20,March,Q1,2025,South,Enterprise Sales,Furniture,Conference Table,54208.9,37137.94,5263.61,17070.96,11807.35,21.78,2,59078.78,54208.9,-4869.88,Mid-Market,Direct Sales
+2025-03-20,March,Q1,2025,North,Online Sales,Office Supplies,Notebook Pack,7210.44,3596.73,1312.48,3613.71,2301.23,31.92,27,7378.98,7210.44,-168.54,Consumer,Direct Sales
+2025-03-20,March,Q1,2025,West,Enterprise Sales,Office Supplies,Desk Organizer,10525.37,5760.29,1243.18,4765.08,3521.9,33.46,12,9310.41,10525.37,1214.96,Enterprise,Retail Partner
+2025-03-21,March,Q1,2025,North,Corporate Sales,Accessories,Webcam,119284.48,63973.87,13953.22,55310.61,41357.39,34.67,31,127801.7,119284.48,-8517.22,Small Business,Direct Sales
+2025-03-21,March,Q1,2025,Central,Enterprise Sales,Office Supplies,Desk Organizer,33736.45,18948.1,2881.19,14788.35,11907.16,35.29,33,30931.75,33736.45,2804.7,Small Business,Direct Sales
+2025-03-30,March,Q1,2025,East,Online Sales,Electronics,Monitor,414902.35,274621.4,42415.34,140280.95,97865.61,23.59,27,383612.02,414902.35,31290.33,Small Business,E-commerce
+2025-03-31,March,Q1,2025,West,Corporate Sales,Accessories,Laptop Stand,42138.37,21155.28,5306.83,20983.09,15676.26,37.2,26,38279.16,42138.37,3859.21,Consumer,Direct Sales
+2025-04-03,April,Q2,2025,North,Retail Sales,Office Supplies,Desk Organizer,17293.81,9791.3,2483.08,7502.51,5019.43,29.02,17,18122.98,17293.81,-829.17,Enterprise,E-commerce
+2025-04-04,April,Q2,2025,East,Retail Sales,Furniture,Work Desk,161391.27,105235.88,25079.73,56155.39,31075.66,19.25,12,142924.01,161391.27,18467.26,Enterprise,Distributor
+2025-04-07,April,Q2,2025,Central,Online Sales,Electronics,Laptop,1827778.64,1270542.92,240678.41,557235.72,316557.31,17.32,33,1930205.12,1827778.64,-102426.48,Consumer,Retail Partner
+2025-04-08,April,Q2,2025,East,Corporate Sales,Electronics,Keyboard,11684.26,6187.31,2162.62,5496.95,3334.33,28.54,7,11719.96,11684.26,-35.7,Mid-Market,Direct Sales
+2025-04-09,April,Q2,2025,West,Online Sales,Accessories,USB-C Hub,75914.44,41831.07,12443.84,34083.37,21639.53,28.51,31,67863.41,75914.44,8051.03,Mid-Market,Retail Partner
+2025-04-13,April,Q2,2025,Central,Online Sales,Furniture,Storage Cabinet,305428.28,205670.26,47998.98,99758.02,51759.04,16.95,33,338628.76,305428.28,-33200.48,Enterprise,Retail Partner
+2025-04-16,April,Q2,2025,East,Enterprise Sales,Furniture,Work Desk,263459.3,180738.59,41668.36,82720.71,41052.35,15.58,21,233524.7,263459.3,29934.6,Consumer,Retail Partner
+2025-04-16,April,Q2,2025,Central,Online Sales,Furniture,Bookshelf,70423.96,45218.92,7977.12,25205.04,17227.92,24.46,11,77988.1,70423.96,-7564.14,Mid-Market,Retail Partner
+2025-04-18,April,Q2,2025,East,Enterprise Sales,Furniture,Storage Cabinet,323024.2,229011.02,60748.04,94013.18,33265.14,10.3,31,358143.32,323024.2,-35119.12,Mid-Market,Direct Sales
+2025-04-18,April,Q2,2025,South,Enterprise Sales,Furniture,Work Desk,260815.67,175532.5,32524.38,85283.17,52758.79,20.23,20,280472.01,260815.67,-19656.34,Mid-Market,Direct Sales
+2025-04-21,April,Q2,2025,West,Retail Sales,Electronics,Headphones,73559.79,41231.87,11767.32,32327.92,20560.6,27.95,24,78302.59,73559.79,-4742.8,Small Business,Retail Partner
+2025-04-23,April,Q2,2025,West,Enterprise Sales,Furniture,Conference Table,131720.66,91272.91,11140.61,40447.75,29307.14,22.25,5,131530.69,131720.66,189.97,Mid-Market,Retail Partner
+2025-04-25,April,Q2,2025,Central,Corporate Sales,Electronics,Laptop,204764.29,145366.03,32816.64,59398.26,26581.62,12.98,4,207368.55,204764.29,-2604.26,Consumer,E-commerce
+2025-04-30,April,Q2,2025,Central,Retail Sales,Electronics,Laptop,1537983.24,1073686.38,236024.15,464296.86,228272.71,14.84,28,1401175.13,1537983.24,136808.11,Consumer,Direct Sales
+2025-04-30,April,Q2,2025,West,Online Sales,Office Supplies,Notebook Pack,5538.38,2616.28,576.61,2922.1,2345.49,42.35,20,5150.75,5538.38,387.63,Consumer,Distributor
+2025-05-01,May,Q2,2025,South,Enterprise Sales,Accessories,Webcam,12156.47,7105.1,1173.71,5051.37,3877.66,31.9,3,10835.91,12156.47,1320.56,Small Business,Distributor
+2025-05-02,May,Q2,2025,Central,Corporate Sales,Electronics,Monitor,510587.57,361503.73,95787.5,149083.84,53296.34,10.44,33,540609.08,510587.57,-30021.51,Small Business,Distributor
+2025-05-02,May,Q2,2025,Central,Retail Sales,Electronics,Laptop,165509.46,123133.05,22665.32,42376.41,19711.09,11.91,3,165136.39,165509.46,373.07,Enterprise,E-commerce
+2025-05-08,May,Q2,2025,South,Corporate Sales,Electronics,Headphones,106010.45,55469.57,10417.32,50540.88,40123.56,37.85,34,111687.02,106010.45,-5676.57,Mid-Market,Distributor
+2025-05-14,May,Q2,2025,Central,Retail Sales,Electronics,Monitor,208395.0,138254.48,38422.7,70140.52,31717.82,15.22,14,229218.56,208395.0,-20823.56,Consumer,E-commerce
+2025-05-15,May,Q2,2025,West,Enterprise Sales,Office Supplies,Desk Organizer,12985.54,7821.94,1634.01,5163.6,3529.59,27.18,13,12429.38,12985.54,556.16,Enterprise,Retail Partner
+2025-05-16,May,Q2,2025,East,Corporate Sales,Electronics,Monitor,165695.74,117089.14,23484.81,48606.6,25121.79,15.16,11,161137.23,165695.74,4558.51,Mid-Market,Direct Sales
+2025-05-19,May,Q2,2025,West,Corporate Sales,Office Supplies,Printer Paper,12566.66,8055.89,1793.17,4510.77,2717.6,21.63,27,11374.18,12566.66,1192.48,Enterprise,Distributor
+2025-05-20,May,Q2,2025,South,Corporate Sales,Electronics,Headphones,71503.0,37380.69,6648.4,34122.31,27473.91,38.42,23,79429.5,71503.0,-7926.5,Mid-Market,Retail Partner
+2025-05-27,May,Q2,2025,Central,Enterprise Sales,Office Supplies,Desk Organizer,8193.28,4933.62,1323.85,3259.66,1935.81,23.63,8,8131.85,8193.28,61.43,Consumer,Distributor
+2025-05-31,May,Q2,2025,East,Online Sales,Office Supplies,Printer Paper,4638.34,2997.01,817.29,1641.33,824.04,17.77,10,4459.47,4638.34,178.87,Enterprise,Direct Sales
+2025-06-01,June,Q2,2025,West,Online Sales,Furniture,Storage Cabinet,200520.09,136288.85,26574.05,64231.24,37657.19,18.78,19,213101.49,200520.09,-12581.4,Consumer,Retail Partner
+2025-06-02,June,Q2,2025,North,Retail Sales,Electronics,Monitor,76608.57,48975.91,10410.98,27632.66,17221.68,22.48,5,76415.55,76608.57,193.02,Mid-Market,E-commerce
+2025-06-02,June,Q2,2025,South,Retail Sales,Accessories,Wireless Mouse,9053.96,4569.52,1069.4,4484.44,3415.04,37.72,7,8236.65,9053.96,817.31,Small Business,Retail Partner
+2025-06-02,June,Q2,2025,West,Retail Sales,Furniture,Work Desk,290015.53,200560.42,47527.32,89455.11,41927.79,14.46,24,274043.91,290015.53,15971.62,Enterprise,E-commerce
+2025-06-04,June,Q2,2025,West,Corporate Sales,Electronics,Laptop,426144.19,304421.75,44809.49,121722.44,76912.95,18.05,8,448839.62,426144.19,-22695.43,Small Business,Retail Partner
+2025-06-08,June,Q2,2025,South,Retail Sales,Furniture,Work Desk,240010.86,154969.54,38372.89,85041.32,46668.43,19.44,18,237770.09,240010.86,2240.77,Enterprise,Retail Partner
+2025-06-11,June,Q2,2025,West,Retail Sales,Office Supplies,Printer Paper,4117.65,2522.72,735.08,1594.93,859.85,20.88,10,4287.24,4117.65,-169.59,Small Business,E-commerce
+2025-06-11,June,Q2,2025,West,Retail Sales,Electronics,Headphones,110121.79,57736.73,20887.22,52385.06,31497.84,28.6,33,120143.75,110121.79,-10021.96,Consumer,Distributor
+2025-06-15,June,Q2,2025,East,Enterprise Sales,Electronics,Monitor,31119.51,21548.57,4185.75,9570.94,5385.19,17.3,2,28211.89,31119.51,2907.62,Mid-Market,Direct Sales
+2025-06-16,June,Q2,2025,East,Online Sales,Electronics,Headphones,38725.15,20472.71,6746.99,18252.44,11505.45,29.71,12,41127.84,38725.15,-2402.69,Enterprise,E-commerce
+2025-06-16,June,Q2,2025,West,Retail Sales,Accessories,Webcam,42306.72,23968.29,4651.48,18338.43,13686.95,32.35,10,38208.63,42306.72,4098.09,Consumer,Direct Sales
+2025-06-18,June,Q2,2025,West,Enterprise Sales,Accessories,Laptop Stand,31088.37,15917.33,4651.47,15171.04,10519.57,33.84,18,29507.75,31088.37,1580.62,Enterprise,Direct Sales
+2025-06-21,June,Q2,2025,Central,Retail Sales,Accessories,Webcam,67914.91,40208.3,10275.54,27706.61,17431.07,25.67,18,72507.43,67914.91,-4592.52,Mid-Market,Retail Partner
+2025-06-22,June,Q2,2025,North,Corporate Sales,Electronics,Keyboard,23365.23,12060.85,1924.77,11304.38,9379.61,40.14,13,25194.96,23365.23,-1829.73,Enterprise,Direct Sales
+2025-07-06,July,Q3,2025,East,Retail Sales,Electronics,Laptop,216670.7,147294.92,32879.42,69375.78,36496.36,16.84,4,233473.63,216670.7,-16802.93,Small Business,Direct Sales
+2025-07-07,July,Q3,2025,North,Online Sales,Office Supplies,Office Chair,275949.12,170842.29,41430.17,105106.83,63676.66,23.08,35,246201.81,275949.12,29747.31,Consumer,Direct Sales
+2025-07-10,July,Q3,2025,East,Corporate Sales,Electronics,Monitor,312121.91,201191.31,25006.4,110930.6,85924.2,27.53,21,290568.8,312121.91,21553.11,Consumer,Retail Partner
+2025-07-13,July,Q3,2025,Central,Enterprise Sales,Accessories,Laptop Stand,45903.73,22498.38,5478.38,23405.35,17926.97,39.05,27,45665.82,45903.73,237.91,Mid-Market,E-commerce
+2025-07-15,July,Q3,2025,North,Enterprise Sales,Office Supplies,Office Chair,43587.78,29410.1,5798.19,14177.68,8379.49,19.22,6,48328.79,43587.78,-4741.01,Mid-Market,Retail Partner
+2025-07-16,July,Q3,2025,East,Corporate Sales,Electronics,Keyboard,53570.02,28754.37,9306.28,24815.65,15509.37,28.95,30,53631.62,53570.02,-61.6,Mid-Market,Retail Partner
+2025-07-17,July,Q3,2025,Central,Corporate Sales,Accessories,Wireless Mouse,19471.06,9395.08,1661.99,10075.98,8413.99,43.21,17,17645.21,19471.06,1825.85,Enterprise,Distributor
+2025-07-21,July,Q3,2025,South,Retail Sales,Accessories,Wireless Mouse,24120.58,11453.85,3202.85,12666.73,9463.88,39.24,20,25181.45,24120.58,-1060.87,Small Business,Retail Partner
+2025-07-23,July,Q3,2025,Central,Enterprise Sales,Furniture,Storage Cabinet,304650.21,211786.13,35042.06,92864.08,57822.02,18.98,32,326527.52,304650.21,-21877.31,Enterprise,E-commerce
+2025-07-24,July,Q3,2025,South,Corporate Sales,Furniture,Conference Table,785651.48,548389.14,148815.9,237262.34,88446.44,11.26,28,818572.94,785651.48,-32921.46,Enterprise,Distributor
+2025-07-27,July,Q3,2025,Central,Retail Sales,Office Supplies,Notebook Pack,2271.53,1029.52,221.08,1242.01,1020.93,44.94,8,2111.15,2271.53,160.38,Consumer,Distributor
+2025-07-29,July,Q3,2025,South,Enterprise Sales,Accessories,Wireless Mouse,31599.57,15283.81,5709.5,16315.76,10606.26,33.56,25,31576.19,31599.57,23.38,Small Business,E-commerce
+2025-08-04,August,Q3,2025,West,Online Sales,Electronics,Headphones,66114.01,36646.12,9452.15,29467.89,20015.74,30.27,22,65574.28,66114.01,539.73,Enterprise,Distributor
+2025-08-07,August,Q3,2025,East,Enterprise Sales,Office Supplies,Desk Organizer,31274.84,17436.84,4834.79,13838.0,9003.21,28.79,34,33871.96,31274.84,-2597.12,Consumer,E-commerce
+2025-08-09,August,Q3,2025,South,Corporate Sales,Office Supplies,Printer Paper,15426.34,9969.94,1631.08,5456.4,3825.32,24.8,35,13791.03,15426.34,1635.31,Mid-Market,Distributor
+2025-08-09,August,Q3,2025,East,Enterprise Sales,Office Supplies,Printer Paper,6189.12,3907.21,1085.72,2281.91,1196.19,19.33,14,6120.64,6189.12,68.48,Mid-Market,Direct Sales
+2025-08-13,August,Q3,2025,West,Online Sales,Furniture,Storage Cabinet,144061.15,95464.45,14973.59,48596.7,33623.11,23.34,15,147114.31,144061.15,-3053.16,Mid-Market,Distributor
+2025-08-14,August,Q3,2025,East,Corporate Sales,Furniture,Storage Cabinet,125277.66,85205.27,14992.27,40072.39,25080.12,20.02,13,125660.69,125277.66,-383.03,Enterprise,Retail Partner
+2025-08-17,August,Q3,2025,West,Retail Sales,Office Supplies,Desk Organizer,24387.31,14079.68,3351.98,10307.63,6955.65,28.52,28,22715.28,24387.31,1672.03,Small Business,Retail Partner
+2025-08-20,August,Q3,2025,South,Retail Sales,Accessories,Wireless Mouse,40282.84,19334.18,5221.26,20948.66,15727.4,39.04,33,40939.62,40282.84,-656.78,Mid-Market,Retail Partner
+2025-08-20,August,Q3,2025,South,Corporate Sales,Office Supplies,Office Chair,266854.2,163913.03,22666.64,102941.17,80274.53,30.08,32,262697.49,266854.2,4156.71,Consumer,Direct Sales
+2025-08-26,August,Q3,2025,South,Corporate Sales,Office Supplies,Printer Paper,12468.71,7967.46,1592.45,4501.25,2908.8,23.33,30,12376.92,12468.71,91.79,Small Business,E-commerce
+2025-08-27,August,Q3,2025,North,Retail Sales,Electronics,Monitor,536551.63,368766.26,64093.24,167785.37,103692.13,19.33,35,524790.77,536551.63,11760.86,Mid-Market,Distributor
+2025-08-28,August,Q3,2025,Central,Corporate Sales,Office Supplies,Notebook Pack,1411.8,637.38,118.93,774.42,655.49,46.43,5,1472.93,1411.8,-61.13,Enterprise,Direct Sales
+2025-09-05,September,Q3,2025,West,Online Sales,Office Supplies,Printer Paper,8011.56,5264.45,902.1,2747.11,1845.01,23.03,17,7834.55,8011.56,177.01,Small Business,Direct Sales
+2025-09-06,September,Q3,2025,South,Corporate Sales,Electronics,Monitor,500060.11,345047.99,81305.9,155012.12,73706.22,14.74,33,535300.59,500060.11,-35240.48,Small Business,Direct Sales
+2025-09-10,September,Q3,2025,North,Corporate Sales,Accessories,Laptop Stand,27438.93,13698.2,5058.39,13740.73,8682.34,31.64,17,27945.09,27438.93,-506.16,Consumer,Distributor
+2025-09-12,September,Q3,2025,North,Retail Sales,Office Supplies,Office Chair,72196.26,47134.28,10981.55,25061.98,14080.43,19.5,10,75019.01,72196.26,-2822.75,Small Business,Distributor
+2025-09-13,September,Q3,2025,West,Enterprise Sales,Electronics,Keyboard,56527.74,28997.52,6315.06,27530.22,21215.16,37.53,30,59003.59,56527.74,-2475.85,Consumer,Direct Sales
+2025-09-13,September,Q3,2025,South,Retail Sales,Electronics,Keyboard,9717.87,4866.88,942.01,4850.99,3908.98,40.22,5,9537.82,9717.87,180.05,Enterprise,Distributor
+2025-09-17,September,Q3,2025,East,Enterprise Sales,Electronics,Keyboard,12648.78,6577.97,1966.61,6070.81,4104.2,32.45,7,13112.29,12648.78,-463.51,Consumer,Direct Sales
+2025-09-18,September,Q3,2025,North,Online Sales,Furniture,Work Desk,401335.05,274444.56,34268.4,126890.49,92622.09,23.08,31,375765.37,401335.05,25569.68,Small Business,Distributor
+2025-09-21,September,Q3,2025,West,Online Sales,Accessories,Laptop Stand,48849.86,23759.75,7843.6,25090.11,17246.51,35.31,28,48147.46,48849.86,702.4,Consumer,Retail Partner
+2025-09-22,September,Q3,2025,Central,Enterprise Sales,Accessories,USB-C Hub,16983.56,9482.16,2844.11,7501.4,4657.29,27.42,7,18801.59,16983.56,-1818.03,Mid-Market,Retail Partner
+2025-09-27,September,Q3,2025,North,Online Sales,Office Supplies,Notebook Pack,6070.29,2916.86,1091.31,3153.43,2062.12,33.97,21,5952.72,6070.29,117.57,Mid-Market,E-commerce
+2025-10-02,October,Q4,2025,East,Corporate Sales,Furniture,Conference Table,799458.0,592084.22,100827.61,207373.78,106546.17,13.33,27,802256.05,799458.0,-2798.05,Small Business,Direct Sales
+2025-10-02,October,Q4,2025,South,Online Sales,Office Supplies,Notebook Pack,3272.47,1520.85,378.91,1751.62,1372.71,41.95,11,3593.75,3272.47,-321.28,Consumer,Retail Partner
+2025-10-11,October,Q4,2025,West,Enterprise Sales,Office Supplies,Notebook Pack,9692.65,4919.29,1214.23,4773.36,3559.13,36.72,35,10375.82,9692.65,-683.17,Small Business,Retail Partner
+2025-10-12,October,Q4,2025,East,Retail Sales,Accessories,USB-C Hub,11891.23,6756.87,1029.11,5134.36,4105.25,34.52,5,11078.38,11891.23,812.85,Enterprise,E-commerce
+2025-10-12,October,Q4,2025,South,Corporate Sales,Office Supplies,Printer Paper,6789.68,4319.6,1253.59,2470.08,1216.49,17.92,14,6167.98,6789.68,621.7,Consumer,Retail Partner
+2025-10-14,October,Q4,2025,South,Retail Sales,Furniture,Storage Cabinet,91508.54,61147.96,11517.07,30360.58,18843.51,20.59,10,85635.23,91508.54,5873.31,Mid-Market,Retail Partner
+2025-10-18,October,Q4,2025,East,Enterprise Sales,Office Supplies,Office Chair,108341.09,72580.47,13374.79,35760.62,22385.83,20.66,15,113088.55,108341.09,-4747.46,Mid-Market,Distributor
+2025-10-20,October,Q4,2025,Central,Corporate Sales,Furniture,Conference Table,683312.46,457342.66,94958.21,225969.8,131011.59,19.17,23,685644.94,683312.46,-2332.48,Consumer,E-commerce
+2025-10-20,October,Q4,2025,South,Online Sales,Office Supplies,Printer Paper,13456.29,8722.4,1218.74,4733.89,3515.15,26.12,32,12337.35,13456.29,1118.94,Mid-Market,Direct Sales
+2025-10-21,October,Q4,2025,West,Enterprise Sales,Furniture,Work Desk,360457.34,245916.16,47032.74,114541.18,67508.44,18.73,28,366404.12,360457.34,-5946.78,Small Business,Direct Sales
+2025-10-24,October,Q4,2025,South,Enterprise Sales,Electronics,Headphones,6596.38,3837.07,971.45,2759.31,1787.86,27.1,2,5891.1,6596.38,705.28,Enterprise,Direct Sales
+2025-10-24,October,Q4,2025,South,Enterprise Sales,Office Supplies,Printer Paper,12006.03,7189.61,1944.65,4816.42,2871.77,23.92,27,10943.22,12006.03,1062.81,Mid-Market,Retail Partner
+2025-10-31,October,Q4,2025,West,Corporate Sales,Furniture,Work Desk,232017.83,149787.21,31437.93,82230.62,50792.69,21.89,19,252899.71,232017.83,-20881.88,Consumer,Retail Partner
+2025-11-02,November,Q4,2025,East,Online Sales,Electronics,Headphones,40651.65,21081.22,5579.45,19570.43,13990.98,34.42,12,40297.26,40651.65,354.39,Enterprise,Direct Sales
+2025-11-02,November,Q4,2025,North,Online Sales,Electronics,Laptop,1086019.44,817016.73,117184.86,269002.71,151817.85,13.98,22,1114891.08,1086019.44,-28871.64,Enterprise,E-commerce
+2025-11-02,November,Q4,2025,North,Corporate Sales,Electronics,Monitor,108023.49,73495.91,17496.64,34527.58,17030.94,15.77,8,111394.13,108023.49,-3370.64,Mid-Market,Direct Sales
+2025-11-05,November,Q4,2025,South,Online Sales,Furniture,Conference Table,907414.33,642342.06,85172.54,265072.27,179899.73,19.83,30,829823.58,907414.33,77590.75,Enterprise,Direct Sales
+2025-11-06,November,Q4,2025,Central,Corporate Sales,Electronics,Laptop,598002.49,416748.03,82754.37,181254.46,98500.09,16.47,11,613217.94,598002.49,-15215.45,Consumer,Distributor
+2025-11-07,November,Q4,2025,South,Retail Sales,Electronics,Monitor,456354.98,297762.44,75309.12,158592.54,83283.42,18.25,31,495290.26,456354.98,-38935.28,Small Business,Distributor
+2025-11-08,November,Q4,2025,East,Corporate Sales,Office Supplies,Notebook Pack,8339.92,4046.55,1031.34,4293.37,3262.03,39.11,31,7889.21,8339.92,450.71,Consumer,Direct Sales
+2025-11-11,November,Q4,2025,South,Corporate Sales,Electronics,Keyboard,3731.08,1829.14,700.38,1901.94,1201.56,32.2,2,3621.07,3731.08,110.01,Enterprise,Distributor
+2025-11-20,November,Q4,2025,East,Corporate Sales,Office Supplies,Desk Organizer,11553.74,6766.3,1444.28,4787.44,3343.16,28.94,12,11835.95,11553.74,-282.21,Enterprise,E-commerce
+2025-11-20,November,Q4,2025,South,Retail Sales,Accessories,Wireless Mouse,23713.11,12037.54,2717.28,11675.57,8958.29,37.78,19,25633.2,23713.11,-1920.09,Small Business,Direct Sales
+2025-11-20,November,Q4,2025,South,Corporate Sales,Furniture,Work Desk,187120.19,119660.53,17496.37,67459.66,49963.29,26.7,14,201990.08,187120.19,-14869.89,Small Business,Retail Partner
+2025-11-21,November,Q4,2025,West,Online Sales,Accessories,USB-C Hub,27426.3,14551.66,5122.6,12874.64,7752.04,28.26,11,30013.95,27426.3,-2587.65,Consumer,Distributor
+2025-11-22,November,Q4,2025,South,Online Sales,Furniture,Bookshelf,217474.24,137318.82,24955.65,80155.42,55199.77,25.38,32,231671.61,217474.24,-14197.37,Mid-Market,E-commerce
+2025-11-23,November,Q4,2025,North,Enterprise Sales,Accessories,USB-C Hub,12806.68,6582.92,2212.91,6223.76,4010.85,31.32,5,14044.28,12806.68,-1237.6,Consumer,E-commerce
+2025-12-01,December,Q4,2025,Central,Retail Sales,Electronics,Laptop,156674.69,111058.49,26834.75,45616.2,18781.45,11.99,3,168265.54,156674.69,-11590.85,Small Business,Distributor
+2025-12-02,December,Q4,2025,East,Retail Sales,Office Supplies,Notebook Pack,2991.27,1370.29,277.83,1620.98,1343.15,44.9,10,2695.28,2991.27,295.99,Enterprise,Retail Partner
+2025-12-04,December,Q4,2025,South,Retail Sales,Office Supplies,Office Chair,163324.41,110716.1,18112.45,52608.31,34495.86,21.12,23,146158.22,163324.41,17166.19,Consumer,Direct Sales
+2025-12-06,December,Q4,2025,Central,Corporate Sales,Electronics,Keyboard,8366.45,4412.98,781.57,3953.47,3171.9,37.91,5,9074.02,8366.45,-707.57,Small Business,Distributor
+2025-12-07,December,Q4,2025,South,Online Sales,Accessories,Laptop Stand,6160.83,3251.64,676.27,2909.19,2232.92,36.24,4,6729.87,6160.83,-569.04,Mid-Market,Direct Sales
+2025-12-08,December,Q4,2025,South,Corporate Sales,Electronics,Keyboard,8951.4,4665.65,1216.51,4285.75,3069.24,34.29,5,8815.34,8951.4,136.06,Small Business,E-commerce
+2025-12-08,December,Q4,2025,North,Corporate Sales,Electronics,Laptop,586415.53,403058.83,79574.41,183356.7,103782.29,17.7,11,613755.97,586415.53,-27340.44,Enterprise,E-commerce
+2025-12-10,December,Q4,2025,North,Enterprise Sales,Office Supplies,Office Chair,131512.43,85347.21,18367.04,46165.22,27798.18,21.14,16,120948.66,131512.43,10563.77,Mid-Market,E-commerce
+2025-12-10,December,Q4,2025,Central,Retail Sales,Electronics,Monitor,269627.95,182778.68,25106.12,86849.27,61743.15,22.9,19,245949.95,269627.95,23678.0,Small Business,E-commerce
+2025-12-13,December,Q4,2025,South,Corporate Sales,Office Supplies,Printer Paper,2133.92,1313.16,392.7,820.76,428.06,20.06,5,2071.6,2133.92,62.32,Small Business,Retail Partner
+2025-12-17,December,Q4,2025,North,Enterprise Sales,Electronics,Laptop,1499517.97,1133659.13,172997.33,365858.84,192861.51,12.86,31,1538431.98,1499517.97,-38914.01,Mid-Market,Distributor
+2025-12-18,December,Q4,2025,South,Corporate Sales,Accessories,Wireless Mouse,10110.26,5178.83,1225.27,4931.43,3706.16,36.66,8,9142.36,10110.26,967.9,Enterprise,E-commerce
+2025-12-18,December,Q4,2025,Central,Retail Sales,Office Supplies,Desk Organizer,7016.93,3982.99,981.67,3033.94,2052.27,29.25,7,6999.79,7016.93,17.14,Enterprise,Distributor
+2025-12-20,December,Q4,2025,North,Online Sales,Electronics,Keyboard,13804.24,7578.21,1247.51,6226.03,4978.52,36.07,8,15021.12,13804.24,-1216.88,Enterprise,Distributor
+2025-12-21,December,Q4,2025,North,Enterprise Sales,Furniture,Bookshelf,113770.21,70697.65,13626.93,43072.56,29445.63,25.88,18,110807.82,113770.21,2962.39,Enterprise,Direct Sales
+2025-12-24,December,Q4,2025,Central,Corporate Sales,Electronics,Keyboard,18210.64,9811.53,3315.38,8399.11,5083.73,27.92,11,19399.9,18210.64,-1189.26,Enterprise,Distributor
+2025-12-27,December,Q4,2025,South,Enterprise Sales,Office Supplies,Office Chair,21932.82,14500.07,2952.7,7432.75,4480.05,20.43,3,22124.89,21932.82,-192.07,Consumer,Direct Sales
+2025-12-28,December,Q4,2025,East,Retail Sales,Furniture,Bookshelf,88102.16,52413.2,12229.12,35688.96,23459.84,26.63,14,98537.89,88102.16,-10435.73,Consumer,Retail Partner
+2025-12-30,December,Q4,2025,North,Retail Sales,Accessories,Laptop Stand,51685.77,26658.45,4965.92,25027.32,20061.4,38.81,34,55713.09,51685.77,-4027.32,Mid-Market,Distributor
+2025-12-31,December,Q4,2025,North,Retail Sales,Office Supplies,Printer Paper,2325.9,1524.54,267.52,801.36,533.84,22.95,5,2304.25,2325.9,21.65,Small Business,Direct Sales

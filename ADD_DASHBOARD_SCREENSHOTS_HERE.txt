@@ -1,0 +1,1 @@
+Save screenshots of your completed dashboard pages in this folder.

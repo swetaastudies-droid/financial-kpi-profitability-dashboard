@@ -1,0 +1,1 @@
+Save your Power BI Desktop report (.pbix) in this folder after building it.
